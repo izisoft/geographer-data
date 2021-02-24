@@ -1,5 +1,5 @@
 {
-    "name": "menarasolutions/geographer-data",
+    "name": "izisoft/geographer-data",
     "type": "library",
     "description": "Basic data package for Geographer - countries and their subdivisions",
     "keywords": ["geographer","geolocation","localization"],
